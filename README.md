@@ -1,6 +1,6 @@
 # front-end-the-mountain
 
-Site utilizando html,css e javascript, com barra responsiva, galeria de imagens, ícones de rede social, etc.
+Site utilizando HTML5, CSS3 e Javascript, com barra responsiva, galeria de imagens, ícones de rede social, etc.
 
 Link para visualização no "About".
 
